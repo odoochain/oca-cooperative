@@ -1,0 +1,2 @@
+Remove useless display of legal representative boolean value in the cooperator
+details.
